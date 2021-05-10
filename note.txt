@@ -1,0 +1,7 @@
+Các câu lệnh trong Git 
+Git clone: giúp kéo dự án trên server về máy tính
+Chọn Terminal và link vào folder để cho Git chạy
+Thực hiện câu lệnh "Git init" để tạo ra 1 vùng làm việc thư mục Git trên máy tính Local
+Câu lệnh " git status " để kiểm tra trạng thái Git
+git add . => Add toàn bộ file có sự thay đổi vào vùng Staging
+git add [ tên file] => đưa 1 file có sự thay đổi vào vùng staging
